@@ -1,0 +1,6 @@
+*.log
+*~
+*sdf
+*Debug
+*.suo
+*.swp
